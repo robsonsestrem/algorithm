@@ -10,7 +10,10 @@
 ### Java ###
 # Compiled class file
 *.class
-/dist/
+dist/
+bin/
+build/
+temp/
 
 # Log file
 *.log
